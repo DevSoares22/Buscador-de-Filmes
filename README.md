@@ -13,3 +13,6 @@ Projeto feito com JavaScript que busca informações de filmes.
 
 ## 💻 Autor
 Rafaela Soares
+
+Projeto desenvolvido com JavaScript focado em APIs
+Acesse: https://devsoares22.github.io/Buscador-de-Filmes/
